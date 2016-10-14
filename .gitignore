@@ -8,3 +8,6 @@ local.properties
 
 .idea/
 *.iml
+/out
+/javadoc-plugin-repo
+
