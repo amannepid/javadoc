@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javadoc.iml" filepath="$PROJECT_DIR$/.idea/modules/javadoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javadoc_main.iml" filepath="$PROJECT_DIR$/.idea/modules/javadoc_main.iml" group="javadoc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javadoc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/javadoc_test.iml" group="javadoc" />
+    </modules>
+  </component>
+</project>
